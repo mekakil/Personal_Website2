@@ -1,0 +1,286 @@
+/* Author: Victor Hugo de Barros */
+/*******************************TAG SELECTOR**********************************/
+body {
+	color: #40514E;
+  	margin: 0;
+  	text-align: center;
+  	font-family: 'Merriweather', serif;
+		max-width: 100%;
+		height: auto;
+		width: auto\9; 
+	}
+
+h1 {
+	color: #66BFBF;
+	font-size: 5.625rem; 
+	line-height: 
+	margin: 50px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+}
+
+h2 {
+	color: #66BFBF;
+	font-family: 'montserrat', sans-serif;
+	font-size: 2.5rem;
+	font-weight: normal;
+	padding-bottom: 10px;
+	margin-top: 100px;
+	
+}
+
+h3 {
+	color: #11999E;
+	font-family: 'montserrat', sans-serif;	
+}
+
+p{
+	line-height: 2;
+	
+}
+
+hr{
+	border: dotted #66BFBF;
+	border-bottom: none;
+	width: 4%;
+}
+
+a{
+	color: #11999E;
+	font-family: 'montserrat', sans-serif;	
+	font-size: 1rem;
+	margin: 10px 20px;
+	text-decoration: none;
+	
+}
+
+a:hover {
+	color: #EAF6F6;
+	
+}
+
+*/********************************CLASSSELECTOR**********************************/
+.top-container {
+ 	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 8%;
+  
+}
+.middle-container {
+	margin: -18.6% 0;
+}
+
+.bottom-container {
+	background-color: #66BFBF;
+	padding: 50px 0 20px;
+	margin: 14% auto 0; 
+}
+
+.bottom-cloud{
+	position: absolute;
+	right: 100px;
+	top: 50px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffff;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+}
+.main-buttons{
+	margin: auto;
+}
+.igt-img{
+	border: solid 1px;
+	border-color: #A8A8A8;
+	border-radius: 70%;
+	box-shadow: 0px 0.2px 2px rgba(34,34,34,0.6);
+	float: left;
+	width: 25%;
+  height: 10%;
+	position: relative;
+	margin-left: -12%;
+	margin-top: 3%;;
+	}
+
+}
+.contact-message{
+	width: 40%;
+	margin: 40px auto;
+}
+.contact-me{
+	display: inline-table;
+	height: 50%;
+	margin-top: 8.5%;
+	margin-bottom: 8.5%;
+	padding: auto;
+	padding-bottom: 0px;
+}
+
+.copyright{
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	padding: 1px 0;
+}
+
+.div-bottom{
+	margin: auto;
+	margin-top: 150px;
+	margin-top: -10%
+	width: 1265px;
+	height: 3px;
+	padding-top: 24%;
+
+}
+.div-top{
+	margin: auto;
+	margin-top: 0%;	
+	padding-top: -2%;
+	margin-bottom: -2%;
+
+}
+.div-greeting{
+	margin-top: -7.5%;
+	margin-bottom: -7.5%;
+}
+.experiences{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.footer-link{
+	color: #11999E;
+}  
+
+.ftperfil{
+	position: :absolute;
+	padding-top: 12%;
+	margin: 12% auto;
+}
+.greeting-1{
+}
+.img-icon1{
+	height: 2%;
+	width: 2%;
+}
+.img-icon2{
+
+}
+.intro{
+	margin: auto;
+	text-align: justify;
+	width: 60%;
+}
+.line1{
+	margin-top: 16%;
+}
+
+.line2{
+	margin-top: 170px auto;
+}
+.pdescription1{
+	margin-left: 150px;
+	text-align: justify;
+	width: 60%;
+}
+.pdescription2{
+	margin-left: 11%;
+	margin-top: 180px;
+	text-align: justify;
+	width: 60%;
+}
+	
+.pro{
+	font-size: 1.7rem;
+	font-family: 'Merriweather', serif;
+	font-weight: normal;
+}
+.profile{
+	padding: 10% auto;
+}
+.skill-row{
+	width: 59%;
+	margin: 5.4% auto;
+	text-align: left;
+	line-height: 2;
+}
+.skills{
+	line-height: 2;
+	margin: 1.5% 34% 10% 34%;
+	margin-top: 11.5%;
+	margin-bottom: 11.5%;
+	
+}
+.skills_title{
+	margin-right: -2%;
+}
+.scm-sub{
+	margin-right: 34%;
+}
+.table1{
+	margin-right: 30%;
+}
+.table2{
+	margin-left: 0%;
+}
+.top-cloud{
+	position: absolute;
+	left: 100px;
+	bottom: 300px;
+}
+.maintitle{
+ 
+}
+.miljardins-img{
+	box-shadow: 0px 0.2px 2px rgba(34,34,34,0.6);
+	border-radius: 70%;
+	float: right;
+	margin-left: 50px;
+	margin-top: -20px;
+	width: 25%;
+}
+
+.mountain-img{
+	margin: 0 auto -4px auto;
+}
+.QR-code{
+padding-left: 80%;
+margin-top: -7%;
+
+}
+.web-sub{
+	position: absolute;
+	width: 33%;
+	margin:-58px auto 0 30%;
+}
+
+
+*/********************************ID SELECTOR**********************************/
+
+#A2312{
+	font-family: 'montserrat', sans-serif;	
+}
+.A2312:hover {
+	
+}
+
